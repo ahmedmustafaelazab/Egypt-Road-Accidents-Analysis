@@ -28,5 +28,21 @@ This project is a **strategic data analysis** of road accidents in Egypt using a
 علشان المشروع يشتغل معاك، حمل الداتا من اللينك ده:  
 [Download Dataset from Google Drive](https://drive.google.com/drive/folders/1lqbMIOKOjxmN-2nIVaykNCVmPv3KUish?usp=drive_link)
 ---
+## 🚀 How to Use
+1. Clone or download this repository.
+2. Download the dataset from the Google Drive link above.
+3. Open the Excel file and enable macros/pivot functionality if needed.
+4. Navigate to the Dashboard sheet to explore the analysis.
+
+## 🔮 Future Work
+- Automate data pipeline using Python/Pandas.
+- Build interactive Power BI dashboard.
+- Add predictive analysis (accident forecasting).
+
+## 👤 Author
+Developed by [Ahmed Mustafa Alazab]  
+- LinkedIn:  https://www.linkedin.com/in/ahmedmalazab
+
+
 ### 📌 Tags
 `Excel` `Data Analysis` `Big Data` `Visualization` `Dashboard` `Traffic Accidents`
