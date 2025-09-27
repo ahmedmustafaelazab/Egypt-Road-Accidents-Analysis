@@ -24,6 +24,9 @@ This project is a **strategic data analysis** of road accidents in Egypt using a
 - Designed to simulate realistic accident data in Egypt while maintaining a global schema structure.
 
 ---
-
+## 📂 Dataset
+علشان المشروع يشتغل معاك، حمل الداتا من اللينك ده:  
+[Download Dataset from Google Drive](https://drive.google.com/drive/folders/1lqbMIOKOjxmN-2nIVaykNCVmPv3KUish?usp=drive_link)
+---
 ### 📌 Tags
 `Excel` `Data Analysis` `Big Data` `Visualization` `Dashboard` `Traffic Accidents`
