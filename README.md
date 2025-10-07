@@ -22,6 +22,10 @@ This project is a **strategic data analysis** of road accidents in Egypt using a
 ## 📎 Notes
 - The dataset is **synthetic** (not real).
 - Designed to simulate realistic accident data in Egypt while maintaining a global schema structure.
+- 
+## 🖥️ Dashboard Preview
+
+![Dashboard](Screenshots/Dashboard.png)
 
 ---
 ## 📂 Dataset
