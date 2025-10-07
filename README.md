@@ -25,8 +25,8 @@ This project is a **strategic data analysis** of road accidents in Egypt using a
 
 ---
 ## 📂 Dataset
-علشان المشروع يشتغل معاك، حمل الداتا من اللينك ده:  
-[Download Dataset from Google Drive](https://drive.google.com/drive/folders/1lqbMIOKOjxmN-2nIVaykNCVmPv3KUish?usp=drive_link)
+Due to GitHub's file size limitations,  all files are hosted on Google Drive.
+You can access and download all the project files from the link below:[Download Dataset from Google Drive](https://drive.google.com/drive/folders/1lqbMIOKOjxmN-2nIVaykNCVmPv3KUish?usp=drive_link)
 ---
 ## 🚀 How to Use
 1. Clone or download this repository.
